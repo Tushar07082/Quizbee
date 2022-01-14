@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quizbee/static/css/main.6df6f538.css",
+    "main.js": "/Quizbee/static/js/main.4eebc7ca.js",
+    "index.html": "/Quizbee/index.html",
+    "main.6df6f538.css.map": "/Quizbee/static/css/main.6df6f538.css.map",
+    "main.4eebc7ca.js.map": "/Quizbee/static/js/main.4eebc7ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6df6f538.css",
+    "static/js/main.4eebc7ca.js"
+  ]
+}
